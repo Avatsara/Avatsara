@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpan Tiwari</h1>
-<h3 align="center">Final year student interested in breaking codes, securing systems, and making machines think smart</h3>
+<h3 align="center"> Recent college passout  interested in breaking codes, securing systems, and making machines think smart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-000&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-000" /> </p>
 
-- 🔬 I’m currently working on **Script Separation**
+- 🔬 I’m currently working on **medical ai**
 
-- 🌱 I’m currently learning **Webapps vulnerability, GENAI**
+- 🌱 I’m currently learning **Multi agent systems**
 
 - 💬 Ask me about **CyberSecurity, Machine Learning**
 
