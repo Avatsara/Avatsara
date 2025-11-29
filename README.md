@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Tiwari</h1>
-<h3 align="center"> Recent college passout  interested in breaking codes, securing systems, and making machines think smart</h3>
+<h3 align="center">  Entry level professional  interested in breaking codes, securing systems, and making machines think smart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-000&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-000" /> </p>
 
