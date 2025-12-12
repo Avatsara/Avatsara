@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arpan Tiwari</h1>
-<h3 align="center">  Entry level professional  interested in breaking codes, securing systems, and making machines think smart</h3>
+<h3 align="center">  Entry level professional  interested in breaking codes, gaming, and making machines think smart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-000&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-000" /> </p>
 
+- please visit https://github.com/blakenot  for  my game repos using **unity engine and c#**
 - 🔬 I’m currently working on **medical ai and game development**
 
 - 🌱 I’m currently learning **Multi agent systems**
 
-- please visit https://github.com/blakenot  for  my game repos using **unity engine and c#**
+
 
 - 💬 Ask me about **CyberSecurity, Machine Learning**
 
