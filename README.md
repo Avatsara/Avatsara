@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-000&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-000" /> </p>
 
 - please visit https://github.com/blakenot  for  my game repos using **unity engine and c#**
-- 🔬 I’m currently working on **medical ai and game development**
+- 🔬 I’m currently working on **medical AI and game development** as personal passion projects.
 
 - 🌱 I’m currently learning **Multi agent systems**
 
